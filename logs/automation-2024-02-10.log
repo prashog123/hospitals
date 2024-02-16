@@ -1,0 +1,44 @@
+23:21:24.887 [main] INFO  testCase.TC_002_CaptureSurgeries - Displayed List of All Proctology Surgeries in Console and Excel Sheet
+23:21:25.100 [main] INFO  testCase.TC_002_CaptureSurgeries - Clicked on Close Button and Closed the Open Tab
+23:21:25.681 [main] INFO  testCase.TC_002_CaptureSurgeries - Clicked On Ophthamology
+23:21:27.099 [main] INFO  testCase.TC_002_CaptureSurgeries - Captured ScreenShot of Ophthamology Surgeries
+23:21:27.131 [main] INFO  testCase.TC_002_CaptureSurgeries - Displaying The List of All Ophthamology Surgeries in Console and Excel Sheet
+23:21:27.801 [main] INFO  testCase.TC_002_CaptureSurgeries - Displayed List of All Ophthamology Surgeries in Console and Excel Sheet
+23:21:27.983 [main] INFO  testCase.TC_002_CaptureSurgeries - Clicked on Close Button and Closed the Open Tab
+23:21:28.657 [main] INFO  testCase.TC_002_CaptureSurgeries - Clicked On Urology
+23:21:30.086 [main] INFO  testCase.TC_002_CaptureSurgeries - Captured ScreenShot of Urology Surgeries
+23:21:30.124 [main] INFO  testCase.TC_002_CaptureSurgeries - Displaying The List of All Urology Surgeries in Console and Excel Sheet
+23:21:33.050 [main] INFO  testCase.TC_002_CaptureSurgeries - Displayed List of All Urology Surgeries in Console and Excel Sheet
+23:21:33.269 [main] INFO  testCase.TC_002_CaptureSurgeries - Clicked on Close Button and Closed the Open Tab
+23:21:33.920 [main] INFO  testCase.TC_002_CaptureSurgeries - Clicked On Cosmetic
+23:21:35.466 [main] INFO  testCase.TC_002_CaptureSurgeries - Captured ScreenShot of Cosmetic Surgeries
+23:21:35.525 [main] INFO  testCase.TC_002_CaptureSurgeries - Displaying The List of All Cosmetic Surgeries in Console and Excel Sheet
+23:21:36.572 [main] INFO  testCase.TC_002_CaptureSurgeries - Displayed List of All Cosmetic Surgeries in Console and Excel Sheet
+23:21:36.789 [main] INFO  testCase.TC_002_CaptureSurgeries - Clicked on Close Button and Closed the Open Tab
+23:21:37.352 [main] INFO  testCase.TC_002_CaptureSurgeries - Clicked On Orthopedics
+23:21:38.693 [main] INFO  testCase.TC_002_CaptureSurgeries - Captured ScreenShot of Orthopedics Surgeries
+23:21:38.716 [main] INFO  testCase.TC_002_CaptureSurgeries - Displaying The List of All Orthopedics Surgeries in Console and Excel Sheet
+23:21:39.637 [main] INFO  testCase.TC_002_CaptureSurgeries - Displayed List of All Orthopedics Surgeries in Console and Excel Sheet
+23:21:39.766 [main] INFO  testCase.TC_002_CaptureSurgeries - Clicked on Close Button and Closed the Open Tab
+23:21:39.767 [main] INFO  testCase.TC_002_CaptureSurgeries - ***** Ending TC_002_CaptureSurgeries *****
+23:21:51.857 [main] INFO  testCase.TC_003_CorporateHealthAndWellness_InvalidDetails - ***** Starting TC_003_CorporateHealthAndWellness_InvalidDetails *****
+23:21:51.992 [main] INFO  testCase.TC_003_CorporateHealthAndWellness_InvalidDetails - Clicked On Corporates
+23:21:54.921 [main] INFO  testCase.TC_003_CorporateHealthAndWellness_InvalidDetails - Clicked On Health And Wellness Plans Option
+23:21:54.958 [main] INFO  testCase.TC_003_CorporateHealthAndWellness_InvalidDetails - Scrolled down
+23:21:55.491 [main] INFO  testCase.TC_003_CorporateHealthAndWellness_InvalidDetails - Name Entered
+23:21:55.702 [main] INFO  testCase.TC_003_CorporateHealthAndWellness_InvalidDetails - Organization Name Entered
+23:21:55.869 [main] INFO  testCase.TC_003_CorporateHealthAndWellness_InvalidDetails - The Contact Number Entered
+23:21:56.019 [main] INFO  testCase.TC_003_CorporateHealthAndWellness_InvalidDetails - Invalid Email-Id Entered
+23:21:56.282 [main] INFO  testCase.TC_003_CorporateHealthAndWellness_InvalidDetails - Selected Organizantion's Size from Dropdown
+23:21:56.479 [main] INFO  testCase.TC_003_CorporateHealthAndWellness_InvalidDetails - Selected Interested-In from Dropdown
+23:21:56.515 [main] INFO  testCase.TC_003_CorporateHealthAndWellness_InvalidDetails - Schedule button is disabled
+23:21:56.515 [main] INFO  testCase.TC_003_CorporateHealthAndWellness_InvalidDetails - ***** Ending TC_003_CorporateHealthAndWellness_InvalidDetails *****
+23:22:08.897 [main] INFO  testCase.TC_004_CorporateHealthAndWellness_ValidDetails - ***** Starting TC_004_CorporateHealthAndWellness_ValidDetails *****
+23:22:09.028 [main] INFO  testCase.TC_004_CorporateHealthAndWellness_ValidDetails - Clicked On Corporates
+23:22:12.259 [main] INFO  testCase.TC_004_CorporateHealthAndWellness_ValidDetails - Clicked On Health And Wellness Plans Option
+23:22:12.283 [main] INFO  testCase.TC_004_CorporateHealthAndWellness_ValidDetails - Scrolled down
+23:22:12.507 [main] INFO  testCase.TC_004_CorporateHealthAndWellness_ValidDetails - Name Entered
+23:22:12.986 [main] INFO  testCase.TC_004_CorporateHealthAndWellness_ValidDetails - Organization Name Entered
+23:22:13.160 [main] INFO  testCase.TC_004_CorporateHealthAndWellness_ValidDetails - Contact Number Entered
+23:22:13.358 [main] INFO  testCase.TC_004_CorporateHealthAndWellness_ValidDetails - Valid Email-Id Entered
+23:22:13.613 [main] INFO  testCase.TC_004_CorporateHealthAndWellness_ValidDetails - Selected Organizantion's Size from Dropdown
